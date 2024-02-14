@@ -1,0 +1,53 @@
+{
+    "insertions": {
+        
+    },
+    "templateFolders": [
+        [
+            {
+                "templateFolders": [
+                    [
+                        {
+                            "templateFolders": [
+                                
+                            ],
+                            "templateFiles": [
+                                
+                            ],
+                            "nameWithInsertation": "4",
+                            "currentPath": ".\\2\\4"
+                        }
+                    ]
+                ],
+                "templateFiles": [
+                    [
+                        {
+                            "content": [
+                                "3",
+                                "3"
+                            ],
+                            "nameWithInsertation": "3.txt",
+                            "currentPath": ".\\2\\3.txt"
+                        }
+                    ]
+                ],
+                "nameWithInsertation": "2",
+                "currentPath": ".\\2"
+            }
+        ],
+        [
+            {
+                "content": [
+                    "1"
+                ],
+                "nameWithInsertation": "1.txt",
+                "currentPath": ".\\1.txt"
+            }
+        ]
+    ],
+    "templateFiles": [
+        
+    ],
+    "name": "SimpleApplication",
+    "description": "simple application"
+}

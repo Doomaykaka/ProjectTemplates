@@ -1,0 +1,23 @@
+{
+    "insertions": {
+        
+    },
+    "templateFolders": [
+        
+    ],
+    "templateFiles": [
+        [
+            {
+                "templateFile": {
+                    "content": [
+                        "1"
+                    ],
+                    "nameWithInsertation": "1.txt",
+                    "currentPath": ".\\1.txt"
+                }
+            }
+        ]
+    ],
+    "name": "SimpleApplication",
+    "description": "simple application"
+}

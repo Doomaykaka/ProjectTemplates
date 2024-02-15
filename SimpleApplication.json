@@ -1,6 +1,8 @@
 {
     "insertions": {
-        
+        "{insertation={definition=[\\d;digit;0/], type=d, description=digit, defaultValue=0/}}": {
+            "value": null
+        }
     },
     "templateFolders": [
         [

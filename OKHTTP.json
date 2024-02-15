@@ -1,0 +1,1535 @@
+{
+    "insertions": {
+        
+    },
+    "templateFolders": [
+        [
+            {
+                "templateFolder": {
+                    "templateFolders": [
+                        [
+                            {
+                                "templateFolder": {
+                                    "templateFolders": [
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        
+                                                    ],
+                                                    "templateFiles": [
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "checksums.lock",
+                                                                    "currentPath": ".\\.gradle\\8.1.1\\checksums\\checksums.lock"
+                                                                }
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "md5-checksums.bin",
+                                                                    "currentPath": ".\\.gradle\\8.1.1\\checksums\\md5-checksums.bin"
+                                                                }
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "sha1-checksums.bin",
+                                                                    "currentPath": ".\\.gradle\\8.1.1\\checksums\\sha1-checksums.bin"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "nameWithInsertation": "checksums",
+                                                    "currentPath": ".\\.gradle\\8.1.1\\checksums"
+                                                }
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        
+                                                    ],
+                                                    "templateFiles": [
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "dependencies-accessors.lock",
+                                                                    "currentPath": ".\\.gradle\\8.1.1\\dependencies-accessors\\dependencies-accessors.lock"
+                                                                }
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "gc.properties",
+                                                                    "currentPath": ".\\.gradle\\8.1.1\\dependencies-accessors\\gc.properties"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "nameWithInsertation": "dependencies-accessors",
+                                                    "currentPath": ".\\.gradle\\8.1.1\\dependencies-accessors"
+                                                }
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        
+                                                    ],
+                                                    "templateFiles": [
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "executionHistory.lock",
+                                                                    "currentPath": ".\\.gradle\\8.1.1\\executionHistory\\executionHistory.lock"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "nameWithInsertation": "executionHistory",
+                                                    "currentPath": ".\\.gradle\\8.1.1\\executionHistory"
+                                                }
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        
+                                                    ],
+                                                    "templateFiles": [
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        "\u0000"
+                                                                    ],
+                                                                    "nameWithInsertation": "last-build.bin",
+                                                                    "currentPath": ".\\.gradle\\8.1.1\\fileChanges\\last-build.bin"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "nameWithInsertation": "fileChanges",
+                                                    "currentPath": ".\\.gradle\\8.1.1\\fileChanges"
+                                                }
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        
+                                                    ],
+                                                    "templateFiles": [
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "fileHashes.lock",
+                                                                    "currentPath": ".\\.gradle\\8.1.1\\fileHashes\\fileHashes.lock"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "nameWithInsertation": "fileHashes",
+                                                    "currentPath": ".\\.gradle\\8.1.1\\fileHashes"
+                                                }
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        
+                                                    ],
+                                                    "templateFiles": [
+                                                        
+                                                    ],
+                                                    "nameWithInsertation": "vcsMetadata",
+                                                    "currentPath": ".\\.gradle\\8.1.1\\vcsMetadata"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    "templateFiles": [
+                                        [
+                                            {
+                                                "templateFile": {
+                                                    "content": [
+                                                        
+                                                    ],
+                                                    "nameWithInsertation": "gc.properties",
+                                                    "currentPath": ".\\.gradle\\8.1.1\\gc.properties"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    "nameWithInsertation": "8.1.1",
+                                    "currentPath": ".\\.gradle\\8.1.1"
+                                }
+                            }
+                        ],
+                        [
+                            {
+                                "templateFolder": {
+                                    "templateFolders": [
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        
+                                                    ],
+                                                    "templateFiles": [
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "checksums.lock",
+                                                                    "currentPath": ".\\.gradle\\8.4\\checksums\\checksums.lock"
+                                                                }
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "md5-checksums.bin",
+                                                                    "currentPath": ".\\.gradle\\8.4\\checksums\\md5-checksums.bin"
+                                                                }
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "sha1-checksums.bin",
+                                                                    "currentPath": ".\\.gradle\\8.4\\checksums\\sha1-checksums.bin"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "nameWithInsertation": "checksums",
+                                                    "currentPath": ".\\.gradle\\8.4\\checksums"
+                                                }
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        
+                                                    ],
+                                                    "templateFiles": [
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "dependencies-accessors.lock",
+                                                                    "currentPath": ".\\.gradle\\8.4\\dependencies-accessors\\dependencies-accessors.lock"
+                                                                }
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "gc.properties",
+                                                                    "currentPath": ".\\.gradle\\8.4\\dependencies-accessors\\gc.properties"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "nameWithInsertation": "dependencies-accessors",
+                                                    "currentPath": ".\\.gradle\\8.4\\dependencies-accessors"
+                                                }
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        
+                                                    ],
+                                                    "templateFiles": [
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "executionHistory.bin",
+                                                                    "currentPath": ".\\.gradle\\8.4\\executionHistory\\executionHistory.bin"
+                                                                }
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "executionHistory.lock",
+                                                                    "currentPath": ".\\.gradle\\8.4\\executionHistory\\executionHistory.lock"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "nameWithInsertation": "executionHistory",
+                                                    "currentPath": ".\\.gradle\\8.4\\executionHistory"
+                                                }
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        
+                                                    ],
+                                                    "templateFiles": [
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        "\u0000"
+                                                                    ],
+                                                                    "nameWithInsertation": "last-build.bin",
+                                                                    "currentPath": ".\\.gradle\\8.4\\fileChanges\\last-build.bin"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "nameWithInsertation": "fileChanges",
+                                                    "currentPath": ".\\.gradle\\8.4\\fileChanges"
+                                                }
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        
+                                                    ],
+                                                    "templateFiles": [
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "fileHashes.bin",
+                                                                    "currentPath": ".\\.gradle\\8.4\\fileHashes\\fileHashes.bin"
+                                                                }
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "fileHashes.lock",
+                                                                    "currentPath": ".\\.gradle\\8.4\\fileHashes\\fileHashes.lock"
+                                                                }
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "templateFile": {
+                                                                    "content": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "resourceHashesCache.bin",
+                                                                    "currentPath": ".\\.gradle\\8.4\\fileHashes\\resourceHashesCache.bin"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "nameWithInsertation": "fileHashes",
+                                                    "currentPath": ".\\.gradle\\8.4\\fileHashes"
+                                                }
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        
+                                                    ],
+                                                    "templateFiles": [
+                                                        
+                                                    ],
+                                                    "nameWithInsertation": "vcsMetadata",
+                                                    "currentPath": ".\\.gradle\\8.4\\vcsMetadata"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    "templateFiles": [
+                                        [
+                                            {
+                                                "templateFile": {
+                                                    "content": [
+                                                        
+                                                    ],
+                                                    "nameWithInsertation": "gc.properties",
+                                                    "currentPath": ".\\.gradle\\8.4\\gc.properties"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    "nameWithInsertation": "8.4",
+                                    "currentPath": ".\\.gradle\\8.4"
+                                }
+                            }
+                        ],
+                        [
+                            {
+                                "templateFolder": {
+                                    "templateFolders": [
+                                        
+                                    ],
+                                    "templateFiles": [
+                                        [
+                                            {
+                                                "templateFile": {
+                                                    "content": [
+                                                        
+                                                    ],
+                                                    "nameWithInsertation": "buildOutputCleanup.lock",
+                                                    "currentPath": ".\\.gradle\\buildOutputCleanup\\buildOutputCleanup.lock"
+                                                }
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "templateFile": {
+                                                    "content": [
+                                                        "#Mon Jan 08 15:45:53 GMT+04:00 2024",
+                                                        "gradle.version=8.1.1"
+                                                    ],
+                                                    "nameWithInsertation": "cache.properties",
+                                                    "currentPath": ".\\.gradle\\buildOutputCleanup\\cache.properties"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    "nameWithInsertation": "buildOutputCleanup",
+                                    "currentPath": ".\\.gradle\\buildOutputCleanup"
+                                }
+                            }
+                        ],
+                        [
+                            {
+                                "templateFolder": {
+                                    "templateFolders": [
+                                        
+                                    ],
+                                    "templateFiles": [
+                                        [
+                                            {
+                                                "templateFile": {
+                                                    "content": [
+                                                        
+                                                    ],
+                                                    "nameWithInsertation": "gc.properties",
+                                                    "currentPath": ".\\.gradle\\vcs-1\\gc.properties"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    "nameWithInsertation": "vcs-1",
+                                    "currentPath": ".\\.gradle\\vcs-1"
+                                }
+                            }
+                        ]
+                    ],
+                    "templateFiles": [
+                        [
+                            {
+                                "templateFile": {
+                                    "content": [
+                                        
+                                    ],
+                                    "nameWithInsertation": "file-system.probe",
+                                    "currentPath": ".\\.gradle\\file-system.probe"
+                                }
+                            }
+                        ]
+                    ],
+                    "nameWithInsertation": ".gradle",
+                    "currentPath": ".\\.gradle"
+                }
+            }
+        ],
+        [
+            {
+                "templateFolder": {
+                    "templateFolders": [
+                        [
+                            {
+                                "templateFolder": {
+                                    "templateFolders": [
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        [
+                                                            {
+                                                                "templateFolder": {
+                                                                    "templateFolders": [
+                                                                        
+                                                                    ],
+                                                                    "templateFiles": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "okhttp",
+                                                                    "currentPath": ".\\app\\bin\\main\\okhttp"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "templateFiles": [
+                                                        
+                                                    ],
+                                                    "nameWithInsertation": "main",
+                                                    "currentPath": ".\\app\\bin\\main"
+                                                }
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        [
+                                                            {
+                                                                "templateFolder": {
+                                                                    "templateFolders": [
+                                                                        
+                                                                    ],
+                                                                    "templateFiles": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "okhttp",
+                                                                    "currentPath": ".\\app\\bin\\test\\okhttp"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "templateFiles": [
+                                                        
+                                                    ],
+                                                    "nameWithInsertation": "test",
+                                                    "currentPath": ".\\app\\bin\\test"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    "templateFiles": [
+                                        
+                                    ],
+                                    "nameWithInsertation": "bin",
+                                    "currentPath": ".\\app\\bin"
+                                }
+                            }
+                        ],
+                        [
+                            {
+                                "templateFolder": {
+                                    "templateFolders": [
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        [
+                                                            {
+                                                                "templateFolder": {
+                                                                    "templateFolders": [
+                                                                        [
+                                                                            {
+                                                                                "templateFolder": {
+                                                                                    "templateFolders": [
+                                                                                        [
+                                                                                            {
+                                                                                                "templateFolder": {
+                                                                                                    "templateFolders": [
+                                                                                                        
+                                                                                                    ],
+                                                                                                    "templateFiles": [
+                                                                                                        
+                                                                                                    ],
+                                                                                                    "nameWithInsertation": "okhttp",
+                                                                                                    "currentPath": ".\\app\\build\\classes\\java\\main\\okhttp"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    ],
+                                                                                    "templateFiles": [
+                                                                                        
+                                                                                    ],
+                                                                                    "nameWithInsertation": "main",
+                                                                                    "currentPath": ".\\app\\build\\classes\\java\\main"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    ],
+                                                                    "templateFiles": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "java",
+                                                                    "currentPath": ".\\app\\build\\classes\\java"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "templateFiles": [
+                                                        
+                                                    ],
+                                                    "nameWithInsertation": "classes",
+                                                    "currentPath": ".\\app\\build\\classes"
+                                                }
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        [
+                                                            {
+                                                                "templateFolder": {
+                                                                    "templateFolders": [
+                                                                        [
+                                                                            {
+                                                                                "templateFolder": {
+                                                                                    "templateFolders": [
+                                                                                        [
+                                                                                            {
+                                                                                                "templateFolder": {
+                                                                                                    "templateFolders": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "templateFolder": {
+                                                                                                                    "templateFolders": [
+                                                                                                                        
+                                                                                                                    ],
+                                                                                                                    "templateFiles": [
+                                                                                                                        
+                                                                                                                    ],
+                                                                                                                    "nameWithInsertation": "main",
+                                                                                                                    "currentPath": ".\\app\\build\\generated\\sources\\annotationProcessor\\java\\main"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ],
+                                                                                                    "templateFiles": [
+                                                                                                        
+                                                                                                    ],
+                                                                                                    "nameWithInsertation": "java",
+                                                                                                    "currentPath": ".\\app\\build\\generated\\sources\\annotationProcessor\\java"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    ],
+                                                                                    "templateFiles": [
+                                                                                        
+                                                                                    ],
+                                                                                    "nameWithInsertation": "annotationProcessor",
+                                                                                    "currentPath": ".\\app\\build\\generated\\sources\\annotationProcessor"
+                                                                                }
+                                                                            }
+                                                                        ],
+                                                                        [
+                                                                            {
+                                                                                "templateFolder": {
+                                                                                    "templateFolders": [
+                                                                                        [
+                                                                                            {
+                                                                                                "templateFolder": {
+                                                                                                    "templateFolders": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "templateFolder": {
+                                                                                                                    "templateFolders": [
+                                                                                                                        
+                                                                                                                    ],
+                                                                                                                    "templateFiles": [
+                                                                                                                        
+                                                                                                                    ],
+                                                                                                                    "nameWithInsertation": "main",
+                                                                                                                    "currentPath": ".\\app\\build\\generated\\sources\\headers\\java\\main"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ],
+                                                                                                    "templateFiles": [
+                                                                                                        
+                                                                                                    ],
+                                                                                                    "nameWithInsertation": "java",
+                                                                                                    "currentPath": ".\\app\\build\\generated\\sources\\headers\\java"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    ],
+                                                                                    "templateFiles": [
+                                                                                        
+                                                                                    ],
+                                                                                    "nameWithInsertation": "headers",
+                                                                                    "currentPath": ".\\app\\build\\generated\\sources\\headers"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    ],
+                                                                    "templateFiles": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "sources",
+                                                                    "currentPath": ".\\app\\build\\generated\\sources"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "templateFiles": [
+                                                        
+                                                    ],
+                                                    "nameWithInsertation": "generated",
+                                                    "currentPath": ".\\app\\build\\generated"
+                                                }
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        [
+                                                            {
+                                                                "templateFolder": {
+                                                                    "templateFolders": [
+                                                                        
+                                                                    ],
+                                                                    "templateFiles": [
+                                                                        [
+                                                                            {
+                                                                                "templateFile": {
+                                                                                    "content": [
+                                                                                        
+                                                                                    ],
+                                                                                    "nameWithInsertation": "previous-compilation-data.bin",
+                                                                                    "currentPath": ".\\app\\build\\tmp\\compileJava\\previous-compilation-data.bin"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    ],
+                                                                    "nameWithInsertation": "compileJava",
+                                                                    "currentPath": ".\\app\\build\\tmp\\compileJava"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "templateFiles": [
+                                                        
+                                                    ],
+                                                    "nameWithInsertation": "tmp",
+                                                    "currentPath": ".\\app\\build\\tmp"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    "templateFiles": [
+                                        
+                                    ],
+                                    "nameWithInsertation": "build",
+                                    "currentPath": ".\\app\\build"
+                                }
+                            }
+                        ],
+                        [
+                            {
+                                "templateFolder": {
+                                    "templateFolders": [
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        [
+                                                            {
+                                                                "templateFolder": {
+                                                                    "templateFolders": [
+                                                                        [
+                                                                            {
+                                                                                "templateFolder": {
+                                                                                    "templateFolders": [
+                                                                                        
+                                                                                    ],
+                                                                                    "templateFiles": [
+                                                                                        [
+                                                                                            {
+                                                                                                "templateFile": {
+                                                                                                    "content": [
+                                                                                                        "/*",
+                                                                                                        " * This Java source file was generated by the Gradle 'init' task.",
+                                                                                                        " */",
+                                                                                                        "package okhttp;",
+                                                                                                        "",
+                                                                                                        "import okhttp3.Request;",
+                                                                                                        "import okhttp3.Response;",
+                                                                                                        "",
+                                                                                                        "import java.io.IOException;",
+                                                                                                        "",
+                                                                                                        "import okhttp3.Call;",
+                                                                                                        "import okhttp3.Callback;",
+                                                                                                        "import okhttp3.Interceptor;",
+                                                                                                        "import okhttp3.OkHttpClient;",
+                                                                                                        "",
+                                                                                                        "public class App {",
+                                                                                                        "\tpublic static void main(String[] args) {",
+                                                                                                        "\t\t// \u0421\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u043a\u043b\u0438\u0435\u043d\u0442\u0430 \u0438 \u0437\u0430\u043f\u0440\u043e\u0441\u0430",
+                                                                                                        "\t\tOkHttpClient client = new OkHttpClient.Builder().addInterceptor(new Interceptor() {",
+                                                                                                        "\t\t\t@Override",
+                                                                                                        "\t\t\tpublic Response intercept(Chain arg0) throws IOException {",
+                                                                                                        "\t\t\t\tRequest req = arg0.request();",
+                                                                                                        "\t\t\t\tResponse res = arg0.proceed(req);",
+                                                                                                        "\t\t\t\tSystem.out.println(\"Request: \" + req.url().url().toString());",
+                                                                                                        "\t\t\t\tSystem.out.println(\"Response: \" + res.isSuccessful());",
+                                                                                                        "\t\t\t\treturn res;",
+                                                                                                        "\t\t\t}",
+                                                                                                        "\t\t}).build();",
+                                                                                                        "",
+                                                                                                        "\t\tRequest request = new Request.Builder().url(\"https://www.google.ru/\").build();",
+                                                                                                        "",
+                                                                                                        "\t\t// \u0418\u0441\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u0437\u0430\u043f\u0440\u043e\u0441\u0430 \u0441\u0438\u043d\u0445\u0440\u043e\u043d\u043d\u043e,\u0432 \u043f\u043e\u0442\u043e\u043a\u0435 \u0432\u044b\u0437\u044b\u0432\u0430\u044e\u0449\u0435\u043c `execute`",
+                                                                                                        "\t\ttry {",
+                                                                                                        "\t\t\tResponse response = client.newCall(request).execute();",
+                                                                                                        "",
+                                                                                                        "\t\t\tString serverAnswer = response.body().string();",
+                                                                                                        "",
+                                                                                                        "\t\t\tSystem.out.println(serverAnswer);",
+                                                                                                        "\t\t} catch (IOException e) {",
+                                                                                                        "\t\t\te.printStackTrace();",
+                                                                                                        "\t\t}",
+                                                                                                        "",
+                                                                                                        "\t\tSystem.out.println(\"--------------------------------------\");",
+                                                                                                        "",
+                                                                                                        "\t\t// \u0438\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u043c \u0437\u0430\u043f\u0440\u043e\u0441 \u0430\u0441\u0438\u043d\u0445\u0440\u043e\u043d\u043d\u043e,\u0432 \u043f\u043e\u0442\u043e\u043a\u0435 \u0432\u044b\u0437\u044b\u0432\u0430\u044e\u0449\u0435\u043c `execute`",
+                                                                                                        "\t\tCall asyncCall = client.newCall(request);",
+                                                                                                        "",
+                                                                                                        "\t\tasyncCall.enqueue(new Callback() {",
+                                                                                                        "",
+                                                                                                        "\t\t\t@Override",
+                                                                                                        "\t\t\tpublic void onFailure(Call arg0, IOException arg1) {",
+                                                                                                        "\t\t\t\t// TODO Auto-generated method stub",
+                                                                                                        "\t\t\t\targ1.printStackTrace();",
+                                                                                                        "\t\t\t}",
+                                                                                                        "",
+                                                                                                        "\t\t\t@Override",
+                                                                                                        "\t\t\tpublic void onResponse(Call arg0, Response arg1) throws IOException {",
+                                                                                                        "\t\t\t\t// TODO Auto-generated method stub",
+                                                                                                        "\t\t\t\tSystem.out.println(arg1.body().string());",
+                                                                                                        "\t\t\t\tSystem.exit(0);",
+                                                                                                        "\t\t\t}",
+                                                                                                        "\t\t});",
+                                                                                                        "\t}",
+                                                                                                        "}"
+                                                                                                    ],
+                                                                                                    "nameWithInsertation": "App.java",
+                                                                                                    "currentPath": ".\\app\\src\\main\\java\\okhttp\\App.java"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    ],
+                                                                                    "nameWithInsertation": "okhttp",
+                                                                                    "currentPath": ".\\app\\src\\main\\java\\okhttp"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    ],
+                                                                    "templateFiles": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "java",
+                                                                    "currentPath": ".\\app\\src\\main\\java"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "templateFiles": [
+                                                        
+                                                    ],
+                                                    "nameWithInsertation": "main",
+                                                    "currentPath": ".\\app\\src\\main"
+                                                }
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "templateFolder": {
+                                                    "templateFolders": [
+                                                        [
+                                                            {
+                                                                "templateFolder": {
+                                                                    "templateFolders": [
+                                                                        [
+                                                                            {
+                                                                                "templateFolder": {
+                                                                                    "templateFolders": [
+                                                                                        
+                                                                                    ],
+                                                                                    "templateFiles": [
+                                                                                        [
+                                                                                            {
+                                                                                                "templateFile": {
+                                                                                                    "content": [
+                                                                                                        "/*",
+                                                                                                        " * This Java source file was generated by the Gradle 'init' task.",
+                                                                                                        " */",
+                                                                                                        "package okhttp;",
+                                                                                                        "",
+                                                                                                        "import org.junit.jupiter.api.Test;",
+                                                                                                        "import static org.junit.jupiter.api.Assertions.*;",
+                                                                                                        "",
+                                                                                                        "class AppTest {",
+                                                                                                        "\t/*",
+                                                                                                        "\t * @Test void appHasAGreeting() { App classUnderTest = new App();",
+                                                                                                        "\t * assertNotNull(classUnderTest.getGreeting(), \"app should have a greeting\"); }",
+                                                                                                        "\t */",
+                                                                                                        "}"
+                                                                                                    ],
+                                                                                                    "nameWithInsertation": "AppTest.java",
+                                                                                                    "currentPath": ".\\app\\src\\test\\java\\okhttp\\AppTest.java"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    ],
+                                                                                    "nameWithInsertation": "okhttp",
+                                                                                    "currentPath": ".\\app\\src\\test\\java\\okhttp"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    ],
+                                                                    "templateFiles": [
+                                                                        
+                                                                    ],
+                                                                    "nameWithInsertation": "java",
+                                                                    "currentPath": ".\\app\\src\\test\\java"
+                                                                }
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "templateFiles": [
+                                                        
+                                                    ],
+                                                    "nameWithInsertation": "test",
+                                                    "currentPath": ".\\app\\src\\test"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    "templateFiles": [
+                                        
+                                    ],
+                                    "nameWithInsertation": "src",
+                                    "currentPath": ".\\app\\src"
+                                }
+                            }
+                        ]
+                    ],
+                    "templateFiles": [
+                        [
+                            {
+                                "templateFile": {
+                                    "content": [
+                                        "/*",
+                                        " * This file was generated by the Gradle 'init' task.",
+                                        " *",
+                                        " * This generated file contains a sample Java application project to get you started.",
+                                        " * For more details take a look at the 'Building Java & JVM projects' chapter in the Gradle",
+                                        " * User Manual available at https://docs.gradle.org/8.0.1/userguide/building_java_projects.html",
+                                        " */",
+                                        "",
+                                        "plugins {",
+                                        "    // Apply the application plugin to add support for building a CLI application in Java.",
+                                        "    id 'application'",
+                                        "}",
+                                        "",
+                                        "repositories {",
+                                        "    // Use Maven Central for resolving dependencies.",
+                                        "    mavenCentral()",
+                                        "}",
+                                        "",
+                                        "dependencies {",
+                                        "    // Use JUnit Jupiter for testing.",
+                                        "    testImplementation 'org.junit.jupiter:junit-jupiter:5.9.1'",
+                                        "",
+                                        "    // This dependency is used by the application.",
+                                        "    implementation 'com.google.guava:guava:31.1-jre'",
+                                        "    ",
+                                        "    implementation 'com.squareup.okhttp3:okhttp:4.9.1'",
+                                        "}",
+                                        "",
+                                        "application {",
+                                        "    // Define the main class for the application.",
+                                        "    mainClass = 'okhttp.App'",
+                                        "}",
+                                        "",
+                                        "tasks.named('test') {",
+                                        "    // Use JUnit Platform for unit tests.",
+                                        "    useJUnitPlatform()",
+                                        "}"
+                                    ],
+                                    "nameWithInsertation": "build.gradle",
+                                    "currentPath": ".\\app\\build.gradle"
+                                }
+                            }
+                        ]
+                    ],
+                    "nameWithInsertation": "app",
+                    "currentPath": ".\\app"
+                }
+            }
+        ],
+        [
+            {
+                "templateFolder": {
+                    "templateFolders": [
+                        [
+                            {
+                                "templateFolder": {
+                                    "templateFolders": [
+                                        
+                                    ],
+                                    "templateFiles": [
+                                        [
+                                            {
+                                                "templateFile": {
+                                                    "content": [
+                                                        "distributionBase=GRADLE_USER_HOME",
+                                                        "distributionPath=wrapper/dists",
+                                                        "distributionUrl=https\\://services.gradle.org/distributions/gradle-8.0.1-bin.zip",
+                                                        "networkTimeout=10000",
+                                                        "zipStoreBase=GRADLE_USER_HOME",
+                                                        "zipStorePath=wrapper/dists"
+                                                    ],
+                                                    "nameWithInsertation": "gradle-wrapper.properties",
+                                                    "currentPath": ".\\gradle\\wrapper\\gradle-wrapper.properties"
+                                                }
+                                            }
+                                        ]
+                                    ],
+                                    "nameWithInsertation": "wrapper",
+                                    "currentPath": ".\\gradle\\wrapper"
+                                }
+                            }
+                        ]
+                    ],
+                    "templateFiles": [
+                        
+                    ],
+                    "nameWithInsertation": "gradle",
+                    "currentPath": ".\\gradle"
+                }
+            }
+        ]
+    ],
+    "templateFiles": [
+        [
+            {
+                "templateFile": {
+                    "content": [
+                        "#",
+                        "# https://help.github.com/articles/dealing-with-line-endings/",
+                        "#",
+                        "# Linux start script should use lf",
+                        "/gradlew        text eol=lf",
+                        "",
+                        "# These are Windows script files and should use crlf",
+                        "*.bat           text eol=crlf",
+                        ""
+                    ],
+                    "nameWithInsertation": ".gitattributes",
+                    "currentPath": ".\\.gitattributes"
+                }
+            }
+        ],
+        [
+            {
+                "templateFile": {
+                    "content": [
+                        "### Gradle ###",
+                        ".gradle",
+                        "build/",
+                        "",
+                        "# Ignore Gradle GUI config",
+                        "gradle-app.setting",
+                        "",
+                        "# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)",
+                        "!gradle-wrapper.jar",
+                        "",
+                        "*target*",
+                        "*.jar",
+                        "*.war",
+                        "*.ear",
+                        "*.class",
+                        "",
+                        "# eclipse specific git ignore",
+                        "*.pydevproject",
+                        ".project",
+                        ".metadata",
+                        "bin/**",
+                        "tmp/**",
+                        "tmp/**/*",
+                        "*.tmp",
+                        "*.bak",
+                        "*.swp",
+                        "*~.nib",
+                        "local.properties",
+                        ".classpath",
+                        ".settings/",
+                        ".loadpath",
+                        "",
+                        "# External tool builders",
+                        ".externalToolBuilders/",
+                        "",
+                        "# Locally stored \"Eclipse launch configurations\"",
+                        "*.launch",
+                        "",
+                        "# Log file",
+                        "*.log",
+                        "",
+                        "# BlueJ files",
+                        "*.ctxt",
+                        "",
+                        "# Mobile Tools for Java (J2ME)",
+                        ".mtj.tmp/",
+                        "",
+                        "# Package Files #",
+                        "*.nar",
+                        "*.zip",
+                        "*.tar.gz",
+                        "*.rar",
+                        "",
+                        "# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml",
+                        "hs_err_pid*",
+                        "replay_pid*"
+                    ],
+                    "nameWithInsertation": ".gitignore",
+                    "currentPath": ".\\.gitignore"
+                }
+            }
+        ],
+        [
+            {
+                "templateFile": {
+                    "content": [
+                        "#!/bin/sh",
+                        "",
+                        "#",
+                        "# Copyright \u00a9 2015-2021 the original authors.",
+                        "#",
+                        "# Licensed under the Apache License, Version 2.0 (the \"License\");",
+                        "# you may not use this file except in compliance with the License.",
+                        "# You may obtain a copy of the License at",
+                        "#",
+                        "#      https://www.apache.org/licenses/LICENSE-2.0",
+                        "#",
+                        "# Unless required by applicable law or agreed to in writing, software",
+                        "# distributed under the License is distributed on an \"AS IS\" BASIS,",
+                        "# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.",
+                        "# See the License for the specific language governing permissions and",
+                        "# limitations under the License.",
+                        "#",
+                        "",
+                        "##############################################################################",
+                        "#",
+                        "#   Gradle start up script for POSIX generated by Gradle.",
+                        "#",
+                        "#   Important for running:",
+                        "#",
+                        "#   (1) You need a POSIX-compliant shell to run this script. If your /bin/sh is",
+                        "#       noncompliant, but you have some other compliant shell such as ksh or",
+                        "#       bash, then to run this script, type that shell name before the whole",
+                        "#       command line, like:",
+                        "#",
+                        "#           ksh Gradle",
+                        "#",
+                        "#       Busybox and similar reduced shells will NOT work, because this script",
+                        "#       requires all of these POSIX shell features:",
+                        "#         * functions;",
+                        "#         * expansions \u00ab$var\u00bb, \u00ab${var}\u00bb, \u00ab${var:-default}\u00bb, \u00ab${var+SET}\u00bb,",
+                        "#           \u00ab${var#prefix}\u00bb, \u00ab${var%suffix}\u00bb, and \u00ab$( cmd )\u00bb;",
+                        "#         * compound commands having a testable exit status, especially \u00abcase\u00bb;",
+                        "#         * various built-in commands including \u00abcommand\u00bb, \u00abset\u00bb, and \u00abulimit\u00bb.",
+                        "#",
+                        "#   Important for patching:",
+                        "#",
+                        "#   (2) This script targets any POSIX shell, so it avoids extensions provided",
+                        "#       by Bash, Ksh, etc; in particular arrays are avoided.",
+                        "#",
+                        "#       The \"traditional\" practice of packing multiple parameters into a",
+                        "#       space-separated string is a well documented source of bugs and security",
+                        "#       problems, so this is (mostly) avoided, by progressively accumulating",
+                        "#       options in \"$@\", and eventually passing that to Java.",
+                        "#",
+                        "#       Where the inherited environment variables (DEFAULT_JVM_OPTS, JAVA_OPTS,",
+                        "#       and GRADLE_OPTS) rely on word-splitting, this is performed explicitly;",
+                        "#       see the in-line comments for details.",
+                        "#",
+                        "#       There are tweaks for specific operating systems such as AIX, CygWin,",
+                        "#       Darwin, MinGW, and NonStop.",
+                        "#",
+                        "#   (3) This script is generated from the Groovy template",
+                        "#       https://github.com/gradle/gradle/blob/HEAD/subprojects/plugins/src/main/resources/org/gradle/api/internal/plugins/unixStartScript.txt",
+                        "#       within the Gradle project.",
+                        "#",
+                        "#       You can find Gradle at https://github.com/gradle/gradle/.",
+                        "#",
+                        "##############################################################################",
+                        "",
+                        "# Attempt to set APP_HOME",
+                        "",
+                        "# Resolve links: $0 may be a link",
+                        "app_path=$0",
+                        "",
+                        "# Need this for daisy-chained symlinks.",
+                        "while",
+                        "    APP_HOME=${app_path%\"${app_path##*/}\"}  # leaves a trailing /; empty if no leading path",
+                        "    [ -h \"$app_path\" ]",
+                        "do",
+                        "    ls=$( ls -ld \"$app_path\" )",
+                        "    link=${ls#*' -> '}",
+                        "    case $link in             #(",
+                        "      /*)   app_path=$link ;; #(",
+                        "      *)    app_path=$APP_HOME$link ;;",
+                        "    esac",
+                        "done",
+                        "",
+                        "# This is normally unused",
+                        "# shellcheck disable=SC2034",
+                        "APP_BASE_NAME=${0##*/}",
+                        "APP_HOME=$( cd \"${APP_HOME:-./}\" && pwd -P ) || exit",
+                        "",
+                        "# Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.",
+                        "DEFAULT_JVM_OPTS='\"-Xmx64m\" \"-Xms64m\"'",
+                        "",
+                        "# Use the maximum available, or set MAX_FD != -1 to use that value.",
+                        "MAX_FD=maximum",
+                        "",
+                        "warn () {",
+                        "    echo \"$*\"",
+                        "} >&2",
+                        "",
+                        "die () {",
+                        "    echo",
+                        "    echo \"$*\"",
+                        "    echo",
+                        "    exit 1",
+                        "} >&2",
+                        "",
+                        "# OS specific support (must be 'true' or 'false').",
+                        "cygwin=false",
+                        "msys=false",
+                        "darwin=false",
+                        "nonstop=false",
+                        "case \"$( uname )\" in                #(",
+                        "  CYGWIN* )         cygwin=true  ;; #(",
+                        "  Darwin* )         darwin=true  ;; #(",
+                        "  MSYS* | MINGW* )  msys=true    ;; #(",
+                        "  NONSTOP* )        nonstop=true ;;",
+                        "esac",
+                        "",
+                        "CLASSPATH=$APP_HOME/gradle/wrapper/gradle-wrapper.jar",
+                        "",
+                        "",
+                        "# Determine the Java command to use to start the JVM.",
+                        "if [ -n \"$JAVA_HOME\" ] ; then",
+                        "    if [ -x \"$JAVA_HOME/jre/sh/java\" ] ; then",
+                        "        # IBM's JDK on AIX uses strange locations for the executables",
+                        "        JAVACMD=$JAVA_HOME/jre/sh/java",
+                        "    else",
+                        "        JAVACMD=$JAVA_HOME/bin/java",
+                        "    fi",
+                        "    if [ ! -x \"$JAVACMD\" ] ; then",
+                        "        die \"ERROR: JAVA_HOME is set to an invalid directory: $JAVA_HOME",
+                        "",
+                        "Please set the JAVA_HOME variable in your environment to match the",
+                        "location of your Java installation.\"",
+                        "    fi",
+                        "else",
+                        "    JAVACMD=java",
+                        "    which java >/dev/null 2>&1 || die \"ERROR: JAVA_HOME is not set and no 'java' command could be found in your PATH.",
+                        "",
+                        "Please set the JAVA_HOME variable in your environment to match the",
+                        "location of your Java installation.\"",
+                        "fi",
+                        "",
+                        "# Increase the maximum file descriptors if we can.",
+                        "if ! \"$cygwin\" && ! \"$darwin\" && ! \"$nonstop\" ; then",
+                        "    case $MAX_FD in #(",
+                        "      max*)",
+                        "        # In POSIX sh, ulimit -H is undefined. That's why the result is checked to see if it worked.",
+                        "        # shellcheck disable=SC3045",
+                        "        MAX_FD=$( ulimit -H -n ) ||",
+                        "            warn \"Could not query maximum file descriptor limit\"",
+                        "    esac",
+                        "    case $MAX_FD in  #(",
+                        "      '' | soft) :;; #(",
+                        "      *)",
+                        "        # In POSIX sh, ulimit -n is undefined. That's why the result is checked to see if it worked.",
+                        "        # shellcheck disable=SC3045",
+                        "        ulimit -n \"$MAX_FD\" ||",
+                        "            warn \"Could not set maximum file descriptor limit to $MAX_FD\"",
+                        "    esac",
+                        "fi",
+                        "",
+                        "# Collect all arguments for the java command, stacking in reverse order:",
+                        "#   * args from the command line",
+                        "#   * the main class name",
+                        "#   * -classpath",
+                        "#   * -D...appname settings",
+                        "#   * --module-path (only if needed)",
+                        "#   * DEFAULT_JVM_OPTS, JAVA_OPTS, and GRADLE_OPTS environment variables.",
+                        "",
+                        "# For Cygwin or MSYS, switch paths to Windows format before running java",
+                        "if \"$cygwin\" || \"$msys\" ; then",
+                        "    APP_HOME=$( cygpath --path --mixed \"$APP_HOME\" )",
+                        "    CLASSPATH=$( cygpath --path --mixed \"$CLASSPATH\" )",
+                        "",
+                        "    JAVACMD=$( cygpath --unix \"$JAVACMD\" )",
+                        "",
+                        "    # Now convert the arguments - kludge to limit ourselves to /bin/sh",
+                        "    for arg do",
+                        "        if",
+                        "            case $arg in                                #(",
+                        "              -*)   false ;;                            # don't mess with options #(",
+                        "              /?*)  t=${arg#/} t=/${t%%/*}              # looks like a POSIX filepath",
+                        "                    [ -e \"$t\" ] ;;                      #(",
+                        "              *)    false ;;",
+                        "            esac",
+                        "        then",
+                        "            arg=$( cygpath --path --ignore --mixed \"$arg\" )",
+                        "        fi",
+                        "        # Roll the args list around exactly as many times as the number of",
+                        "        # args, so each arg winds up back in the position where it started, but",
+                        "        # possibly modified.",
+                        "        #",
+                        "        # NB: a `for` loop captures its iteration list before it begins, so",
+                        "        # changing the positional parameters here affects neither the number of",
+                        "        # iterations, nor the values presented in `arg`.",
+                        "        shift                   # remove old arg",
+                        "        set -- \"$@\" \"$arg\"      # push replacement arg",
+                        "    done",
+                        "fi",
+                        "",
+                        "# Collect all arguments for the java command;",
+                        "#   * $DEFAULT_JVM_OPTS, $JAVA_OPTS, and $GRADLE_OPTS can contain fragments of",
+                        "#     shell script including quotes and variable substitutions, so put them in",
+                        "#     double quotes to make sure that they get re-expanded; and",
+                        "#   * put everything else in single quotes, so that it's not re-expanded.",
+                        "",
+                        "set -- \\",
+                        "        \"-Dorg.gradle.appname=$APP_BASE_NAME\" \\",
+                        "        -classpath \"$CLASSPATH\" \\",
+                        "        org.gradle.wrapper.GradleWrapperMain \\",
+                        "        \"$@\"",
+                        "",
+                        "# Stop when \"xargs\" is not available.",
+                        "if ! command -v xargs >/dev/null 2>&1",
+                        "then",
+                        "    die \"xargs is not available\"",
+                        "fi",
+                        "",
+                        "# Use \"xargs\" to parse quoted args.",
+                        "#",
+                        "# With -n1 it outputs one arg per line, with the quotes and backslashes removed.",
+                        "#",
+                        "# In Bash we could simply go:",
+                        "#",
+                        "#   readarray ARGS < <( xargs -n1 <<<\"$var\" ) &&",
+                        "#   set -- \"${ARGS[@]}\" \"$@\"",
+                        "#",
+                        "# but POSIX shell has neither arrays nor command substitution, so instead we",
+                        "# post-process each arg (as a line of input to sed) to backslash-escape any",
+                        "# character that might be a shell metacharacter, then use eval to reverse",
+                        "# that process (while maintaining the separation between arguments), and wrap",
+                        "# the whole thing up as a single \"set\" statement.",
+                        "#",
+                        "# This will of course break if any of these variables contains a newline or",
+                        "# an unmatched quote.",
+                        "#",
+                        "",
+                        "eval \"set -- $(",
+                        "        printf '%s\\n' \"$DEFAULT_JVM_OPTS $JAVA_OPTS $GRADLE_OPTS\" |",
+                        "        xargs -n1 |",
+                        "        sed ' s~[^-[:alnum:]+,./:=@_]~\\\\&~g; ' |",
+                        "        tr '\\n' ' '",
+                        "    )\" '\"$@\"'",
+                        "",
+                        "exec \"$JAVACMD\" \"$@\""
+                    ],
+                    "nameWithInsertation": "gradlew",
+                    "currentPath": ".\\gradlew"
+                }
+            }
+        ],
+        [
+            {
+                "templateFile": {
+                    "content": [
+                        "@rem",
+                        "@rem Copyright 2015 the original author or authors.",
+                        "@rem",
+                        "@rem Licensed under the Apache License, Version 2.0 (the \"License\");",
+                        "@rem you may not use this file except in compliance with the License.",
+                        "@rem You may obtain a copy of the License at",
+                        "@rem",
+                        "@rem      https://www.apache.org/licenses/LICENSE-2.0",
+                        "@rem",
+                        "@rem Unless required by applicable law or agreed to in writing, software",
+                        "@rem distributed under the License is distributed on an \"AS IS\" BASIS,",
+                        "@rem WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.",
+                        "@rem See the License for the specific language governing permissions and",
+                        "@rem limitations under the License.",
+                        "@rem",
+                        "",
+                        "@if \"%DEBUG%\"==\"\" @echo off",
+                        "@rem ##########################################################################",
+                        "@rem",
+                        "@rem  Gradle startup script for Windows",
+                        "@rem",
+                        "@rem ##########################################################################",
+                        "",
+                        "@rem Set local scope for the variables with windows NT shell",
+                        "if \"%OS%\"==\"Windows_NT\" setlocal",
+                        "",
+                        "set DIRNAME=%~dp0",
+                        "if \"%DIRNAME%\"==\"\" set DIRNAME=.",
+                        "@rem This is normally unused",
+                        "set APP_BASE_NAME=%~n0",
+                        "set APP_HOME=%DIRNAME%",
+                        "",
+                        "@rem Resolve any \".\" and \"..\" in APP_HOME to make it shorter.",
+                        "for %%i in (\"%APP_HOME%\") do set APP_HOME=%%~fi",
+                        "",
+                        "@rem Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.",
+                        "set DEFAULT_JVM_OPTS=\"-Xmx64m\" \"-Xms64m\"",
+                        "",
+                        "@rem Find java.exe",
+                        "if defined JAVA_HOME goto findJavaFromJavaHome",
+                        "",
+                        "set JAVA_EXE=java.exe",
+                        "%JAVA_EXE% -version >NUL 2>&1",
+                        "if %ERRORLEVEL% equ 0 goto execute",
+                        "",
+                        "echo.",
+                        "echo ERROR: JAVA_HOME is not set and no 'java' command could be found in your PATH.",
+                        "echo.",
+                        "echo Please set the JAVA_HOME variable in your environment to match the",
+                        "echo location of your Java installation.",
+                        "",
+                        "goto fail",
+                        "",
+                        ":findJavaFromJavaHome",
+                        "set JAVA_HOME=%JAVA_HOME:\"=%",
+                        "set JAVA_EXE=%JAVA_HOME%/bin/java.exe",
+                        "",
+                        "if exist \"%JAVA_EXE%\" goto execute",
+                        "",
+                        "echo.",
+                        "echo ERROR: JAVA_HOME is set to an invalid directory: %JAVA_HOME%",
+                        "echo.",
+                        "echo Please set the JAVA_HOME variable in your environment to match the",
+                        "echo location of your Java installation.",
+                        "",
+                        "goto fail",
+                        "",
+                        ":execute",
+                        "@rem Setup the command line",
+                        "",
+                        "set CLASSPATH=%APP_HOME%\\gradle\\wrapper\\gradle-wrapper.jar",
+                        "",
+                        "",
+                        "@rem Execute Gradle",
+                        "\"%JAVA_EXE%\" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %GRADLE_OPTS% \"-Dorg.gradle.appname=%APP_BASE_NAME%\" -classpath \"%CLASSPATH%\" org.gradle.wrapper.GradleWrapperMain %*",
+                        "",
+                        ":end",
+                        "@rem End local scope for the variables with windows NT shell",
+                        "if %ERRORLEVEL% equ 0 goto mainEnd",
+                        "",
+                        ":fail",
+                        "rem Set variable GRADLE_EXIT_CONSOLE if you need the _script_ return code instead of",
+                        "rem the _cmd.exe /c_ return code!",
+                        "set EXIT_CODE=%ERRORLEVEL%",
+                        "if %EXIT_CODE% equ 0 set EXIT_CODE=1",
+                        "if not \"\"==\"%GRADLE_EXIT_CONSOLE%\" exit %EXIT_CODE%",
+                        "exit /b %EXIT_CODE%",
+                        "",
+                        ":mainEnd",
+                        "if \"%OS%\"==\"Windows_NT\" endlocal",
+                        "",
+                        ":omega"
+                    ],
+                    "nameWithInsertation": "gradlew.bat",
+                    "currentPath": ".\\gradlew.bat"
+                }
+            }
+        ],
+        [
+            {
+                "templateFile": {
+                    "content": [
+                        "/*",
+                        " * This file was generated by the Gradle 'init' task.",
+                        " *",
+                        " * The settings file is used to specify which projects to include in your build.",
+                        " *",
+                        " * Detailed information about configuring a multi-project build in Gradle can be found",
+                        " * in the user manual at https://docs.gradle.org/8.0.1/userguide/multi_project_builds.html",
+                        " */",
+                        "",
+                        "rootProject.name = 'okHTTP'",
+                        "include('app')"
+                    ],
+                    "nameWithInsertation": "settings.gradle",
+                    "currentPath": ".\\settings.gradle"
+                }
+            }
+        ]
+    ],
+    "name": "OKHTTP",
+    "description": "okhttp app"
+}

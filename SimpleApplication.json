@@ -1,6 +1,6 @@
 {
     "insertations": {
-        "{insertation={definition=[<ad;digit;0>], type=d, description=digit, defaultValue=0}}": {
+        "{insertation={definition=[<\\d;digit;0>], type=\\d, description=digit, defaultValue=0}}": {
             "value": ""
         }
     },
@@ -38,7 +38,7 @@
                     "content": [
                         "1",
                         "1",
-                        "[<ad;digit;0>]"
+                        "[<\\d;digit;0>]"
                     ],
                     "nameWithInsertation": "1.txt",
                     "currentPath": ".\\1.txt"

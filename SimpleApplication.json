@@ -1,6 +1,9 @@
 {
     "insertations": {
-        "{insertation={definition=[<type=.*;description=project name;default=App>], type=.*, description=project name, defaultValue=App}}": {
+        "{insertation={definition=[-type=ALL;description=package name;default=app-], type=.*, description=package name, defaultValue=app}}": {
+            "value": ""
+        },
+        "{insertation={definition=[-type=.*;description=project name;default=App-], type=.*, description=project name, defaultValue=App}}": {
             "value": ""
         }
     },
@@ -872,7 +875,7 @@
                         "    id 'org.gradle.toolchains.foojay-resolver-convention' version '0.7.0'",
                         "}",
                         "",
-                        "rootProject.name = '[<type=.*;description=project name;default=App>]'",
+                        "rootProject.name = '[-type=.*;description=project name;default=App-]'",
                         "include('app')"
                     ],
                     "nameWithInsertation": "settings.gradle",

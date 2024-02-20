@@ -34,7 +34,7 @@
                                                                             {
                                                                                 "templateFolder": {
                                                                                     "templateFolders": [
-                                                                                        
+
                                                                                     ],
                                                                                     "templateFiles": [
                                                                                         [
@@ -65,7 +65,7 @@
                                                                         ]
                                                                     ],
                                                                     "templateFiles": [
-                                                                        
+
                                                                     ],
                                                                     "nameWithInsertation": "java",
                                                                     "currentPath": ".\\app\\src\\main\\java"
@@ -76,10 +76,10 @@
                                                             {
                                                                 "templateFolder": {
                                                                     "templateFolders": [
-                                                                        
+
                                                                     ],
                                                                     "templateFiles": [
-                                                                        
+
                                                                     ],
                                                                     "nameWithInsertation": "resources",
                                                                     "currentPath": ".\\app\\src\\main\\resources"
@@ -88,7 +88,7 @@
                                                         ]
                                                     ],
                                                     "templateFiles": [
-                                                        
+
                                                     ],
                                                     "nameWithInsertation": "main",
                                                     "currentPath": ".\\app\\src\\main"
@@ -107,7 +107,7 @@
                                                                             {
                                                                                 "templateFolder": {
                                                                                     "templateFolders": [
-                                                                                        
+
                                                                                     ],
                                                                                     "templateFiles": [
                                                                                         [
@@ -149,7 +149,7 @@
                                                                         ]
                                                                     ],
                                                                     "templateFiles": [
-                                                                        
+
                                                                     ],
                                                                     "nameWithInsertation": "java",
                                                                     "currentPath": ".\\app\\src\\test\\java"
@@ -160,10 +160,10 @@
                                                             {
                                                                 "templateFolder": {
                                                                     "templateFolders": [
-                                                                        
+
                                                                     ],
                                                                     "templateFiles": [
-                                                                        
+
                                                                     ],
                                                                     "nameWithInsertation": "resources",
                                                                     "currentPath": ".\\app\\src\\test\\resources"
@@ -172,7 +172,7 @@
                                                         ]
                                                     ],
                                                     "templateFiles": [
-                                                        
+
                                                     ],
                                                     "nameWithInsertation": "test",
                                                     "currentPath": ".\\app\\src\\test"
@@ -181,7 +181,7 @@
                                         ]
                                     ],
                                     "templateFiles": [
-                                        
+
                                     ],
                                     "nameWithInsertation": "src",
                                     "currentPath": ".\\app\\src"
@@ -231,6 +231,9 @@
                                         "    toolchain {",
                                         "        languageVersion = JavaLanguageVersion.of(21)",
                                         "    }",
+                                        "    ",
+                                        "    withJavadocJar()",
+                                        "    withSourcesJar()",
                                         "}",
                                         "",
                                         "jar{",
@@ -327,7 +330,7 @@
                             {
                                 "templateFolder": {
                                     "templateFolders": [
-                                        
+
                                     ],
                                     "templateFiles": [
                                         [
@@ -537,7 +540,7 @@
                         ]
                     ],
                     "templateFiles": [
-                        
+
                     ],
                     "nameWithInsertation": "config",
                     "currentPath": ".\\config"
@@ -552,14 +555,14 @@
                             {
                                 "templateFolder": {
                                     "templateFolders": [
-                                        
+
                                     ],
                                     "templateFiles": [
                                         [
                                             {
                                                 "templateFile": {
                                                     "content": [
-                                                        
+
                                                     ],
                                                     "nameWithInsertation": "gradle-wrapper.jar",
                                                     "currentPath": ".\\gradle\\wrapper\\gradle-wrapper.jar"

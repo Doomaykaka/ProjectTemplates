@@ -33,9 +33,7 @@
                                                                         [
                                                                             {
                                                                                 "templateFolder": {
-                                                                                    "templateFolders": [
-
-                                                                                    ],
+                                                                                    "templateFolders": [],
                                                                                     "templateFiles": [
                                                                                         [
                                                                                             {
@@ -61,9 +59,7 @@
                                                                             }
                                                                         ]
                                                                     ],
-                                                                    "templateFiles": [
-
-                                                                    ],
+                                                                    "templateFiles": [],
                                                                     "nameWithInsertation": "java",
                                                                     "currentPath": ".\\app\\src\\main\\java"
                                                                 }
@@ -72,21 +68,15 @@
                                                         [
                                                             {
                                                                 "templateFolder": {
-                                                                    "templateFolders": [
-
-                                                                    ],
-                                                                    "templateFiles": [
-
-                                                                    ],
+                                                                    "templateFolders": [],
+                                                                    "templateFiles": [],
                                                                     "nameWithInsertation": "resources",
                                                                     "currentPath": ".\\app\\src\\main\\resources"
                                                                 }
                                                             }
                                                         ]
                                                     ],
-                                                    "templateFiles": [
-
-                                                    ],
+                                                    "templateFiles": [],
                                                     "nameWithInsertation": "main",
                                                     "currentPath": ".\\app\\src\\main"
                                                 }
@@ -103,9 +93,7 @@
                                                                         [
                                                                             {
                                                                                 "templateFolder": {
-                                                                                    "templateFolders": [
-
-                                                                                    ],
+                                                                                    "templateFolders": [],
                                                                                     "templateFiles": [
                                                                                         [
                                                                                             {
@@ -142,9 +130,7 @@
                                                                             }
                                                                         ]
                                                                     ],
-                                                                    "templateFiles": [
-
-                                                                    ],
+                                                                    "templateFiles": [],
                                                                     "nameWithInsertation": "java",
                                                                     "currentPath": ".\\app\\src\\test\\java"
                                                                 }
@@ -153,30 +139,22 @@
                                                         [
                                                             {
                                                                 "templateFolder": {
-                                                                    "templateFolders": [
-
-                                                                    ],
-                                                                    "templateFiles": [
-
-                                                                    ],
+                                                                    "templateFolders": [],
+                                                                    "templateFiles": [],
                                                                     "nameWithInsertation": "resources",
                                                                     "currentPath": ".\\app\\src\\test\\resources"
                                                                 }
                                                             }
                                                         ]
                                                     ],
-                                                    "templateFiles": [
-
-                                                    ],
+                                                    "templateFiles": [],
                                                     "nameWithInsertation": "test",
                                                     "currentPath": ".\\app\\src\\test"
                                                 }
                                             }
                                         ]
                                     ],
-                                    "templateFiles": [
-
-                                    ],
+                                    "templateFiles": [],
                                     "nameWithInsertation": "src",
                                     "currentPath": ".\\app\\src"
                                 }
@@ -201,6 +179,8 @@
                                         "    // Use Maven Central for resolving dependencies.",
                                         "    mavenCentral()",
                                         "}",
+                                        "",
+                                        "var version = [0, 0, 0]",
                                         "",
                                         "dependencies {",
                                         "    // Use JUnit Jupiter for testing.",
@@ -239,6 +219,7 @@
                                         "    }",
                                         "",
                                         "\tduplicatesStrategy = DuplicatesStrategy.EXCLUDE",
+                                        "\tarchiveBaseName = '[-type=ALL;description=project title;default=App-](v' + version[0] + '_' + version[1] + '_' + version[2] + ')'",
                                         "}",
                                         "",
                                         "application {",
@@ -276,13 +257,13 @@
                                         "",
                                         "spotless {",
                                         "  java {",
-										"    removeUnusedImports()",
-										"    importOrder()",
-										"    palantirJavaFormat()",
-										"    indentWithSpaces(4)",
-										"    formatAnnotations()",   
-										"    trimTrailingWhitespace()",
-										"    endWithNewline()",
+                                        "    removeUnusedImports()",
+                                        "    importOrder()",
+                                        "    palantirJavaFormat()",
+                                        "    indentWithSpaces(4)",
+                                        "    formatAnnotations()",
+                                        "    trimTrailingWhitespace()",
+                                        "    endWithNewline()",
                                         "  }",
                                         "}",
                                         "",
@@ -321,9 +302,7 @@
                         [
                             {
                                 "templateFolder": {
-                                    "templateFolders": [
-
-                                    ],
+                                    "templateFolders": [],
                                     "templateFiles": [
                                         [
                                             {
@@ -531,9 +510,7 @@
                             }
                         ]
                     ],
-                    "templateFiles": [
-
-                    ],
+                    "templateFiles": [],
                     "nameWithInsertation": "config",
                     "currentPath": ".\\config"
                 }
@@ -546,16 +523,12 @@
                         [
                             {
                                 "templateFolder": {
-                                    "templateFolders": [
-
-                                    ],
+                                    "templateFolders": [],
                                     "templateFiles": [
                                         [
                                             {
                                                 "templateFile": {
-                                                    "content": [
-
-                                                    ],
+                                                    "content": [],
                                                     "nameWithInsertation": "gradle-wrapper.jar",
                                                     "currentPath": ".\\gradle\\wrapper\\gradle-wrapper.jar"
                                                 }
@@ -968,6 +941,24 @@
             {
                 "templateFile": {
                     "content": [
+                        "# This file was generated by the Gradle 'init' task.",
+                        "# https://docs.gradle.org/current/userguide/platforms.html#sub::toml-dependencies-format",
+                        "",
+                        "[versions]",
+                        "junit-jupiter = \"5.12.1\"",
+                        "",
+                        "[libraries]",
+                        "junit-jupiter = { module = \"org.junit.jupiter:junit-jupiter\", version.ref = \"junit-jupiter\" }"
+                    ],
+                    "nameWithInsertation": "libs.versions.toml",
+                    "currentPath": ".\\libs.versions.toml"
+                }
+            }
+        ],
+        [
+            {
+                "templateFile": {
+                    "content": [
                         "@rem",
                         "@rem Copyright 2015 the original author or authors.",
                         "@rem",
@@ -1170,16 +1161,8 @@
             {
                 "templateFile": {
                     "content": [
-                        "/*",
-                        " * This file was generated by the Gradle 'init' task.",
-                        " *",
-                        " * The settings file is used to specify which projects to include in your build.",
-                        " * For more detailed information on multi-project builds, please refer to https://docs.gradle.org/8.6/userguide/multi_project_builds.html in the Gradle documentation.",
-                        " */",
-                        "",
                         "plugins {",
-                        "    // Apply the foojay-resolver plugin to allow automatic download of JDKs",
-                        "    id 'org.gradle.toolchains.foojay-resolver-convention' version '0.7.0'",
+                        "    id 'org.gradle.toolchains.foojay-resolver-convention' version '1.0.0'",
                         "}",
                         "",
                         "rootProject.name = '[-type=.*;description=project name;default=App-]'",

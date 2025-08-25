@@ -28,16 +28,12 @@
                                         [
                                             {
                                                 "templateFolder": {
-                                                    "templateFolders": [
-
-                                                    ],
+                                                    "templateFolders": [],
                                                     "templateFiles": [
                                                         [
                                                             {
                                                                 "templateFile": {
-                                                                    "content": [
-
-                                                                    ],
+                                                                    "content": [],
                                                                     "nameWithInsertation": "checksums.lock",
                                                                     "currentPath": ".\\.gradle\\8.6\\checksums\\checksums.lock"
                                                                 }
@@ -52,9 +48,7 @@
                                         [
                                             {
                                                 "templateFolder": {
-                                                    "templateFolders": [
-
-                                                    ],
+                                                    "templateFolders": [],
                                                     "templateFiles": [
                                                         [
                                                             {
@@ -76,16 +70,12 @@
                                         [
                                             {
                                                 "templateFolder": {
-                                                    "templateFolders": [
-
-                                                    ],
+                                                    "templateFolders": [],
                                                     "templateFiles": [
                                                         [
                                                             {
                                                                 "templateFile": {
-                                                                    "content": [
-
-                                                                    ],
+                                                                    "content": [],
                                                                     "nameWithInsertation": "fileHashes.lock",
                                                                     "currentPath": ".\\.gradle\\8.6\\fileHashes\\fileHashes.lock"
                                                                 }
@@ -100,12 +90,8 @@
                                         [
                                             {
                                                 "templateFolder": {
-                                                    "templateFolders": [
-
-                                                    ],
-                                                    "templateFiles": [
-
-                                                    ],
+                                                    "templateFolders": [],
+                                                    "templateFiles": [],
                                                     "nameWithInsertation": "vcsMetadata",
                                                     "currentPath": ".\\.gradle\\8.6\\vcsMetadata"
                                                 }
@@ -116,9 +102,7 @@
                                         [
                                             {
                                                 "templateFile": {
-                                                    "content": [
-
-                                                    ],
+                                                    "content": [],
                                                     "nameWithInsertation": "gc.properties",
                                                     "currentPath": ".\\.gradle\\8.6\\gc.properties"
                                                 }
@@ -133,16 +117,12 @@
                         [
                             {
                                 "templateFolder": {
-                                    "templateFolders": [
-
-                                    ],
+                                    "templateFolders": [],
                                     "templateFiles": [
                                         [
                                             {
                                                 "templateFile": {
-                                                    "content": [
-
-                                                    ],
+                                                    "content": [],
                                                     "nameWithInsertation": "gc.properties",
                                                     "currentPath": ".\\.gradle\\vcs-1\\gc.properties"
                                                 }
@@ -155,9 +135,7 @@
                             }
                         ]
                     ],
-                    "templateFiles": [
-
-                    ],
+                    "templateFiles": [],
                     "nameWithInsertation": ".gradle",
                     "currentPath": ".\\.gradle"
                 }
@@ -182,9 +160,7 @@
                                                                         [
                                                                             {
                                                                                 "templateFolder": {
-                                                                                    "templateFolders": [
-
-                                                                                    ],
+                                                                                    "templateFolders": [],
                                                                                     "templateFiles": [
                                                                                         [
                                                                                             {
@@ -210,9 +186,7 @@
                                                                             }
                                                                         ]
                                                                     ],
-                                                                    "templateFiles": [
-
-                                                                    ],
+                                                                    "templateFiles": [],
                                                                     "nameWithInsertation": "java",
                                                                     "currentPath": ".\\app\\src\\main\\java"
                                                                 }
@@ -221,21 +195,15 @@
                                                         [
                                                             {
                                                                 "templateFolder": {
-                                                                    "templateFolders": [
-
-                                                                    ],
-                                                                    "templateFiles": [
-
-                                                                    ],
+                                                                    "templateFolders": [],
+                                                                    "templateFiles": [],
                                                                     "nameWithInsertation": "resources",
                                                                     "currentPath": ".\\app\\src\\main\\resources"
                                                                 }
                                                             }
                                                         ]
                                                     ],
-                                                    "templateFiles": [
-
-                                                    ],
+                                                    "templateFiles": [],
                                                     "nameWithInsertation": "main",
                                                     "currentPath": ".\\app\\src\\main"
                                                 }
@@ -252,9 +220,7 @@
                                                                         [
                                                                             {
                                                                                 "templateFolder": {
-                                                                                    "templateFolders": [
-
-                                                                                    ],
+                                                                                    "templateFolders": [],
                                                                                     "templateFiles": [
                                                                                         [
                                                                                             {
@@ -291,9 +257,7 @@
                                                                             }
                                                                         ]
                                                                     ],
-                                                                    "templateFiles": [
-
-                                                                    ],
+                                                                    "templateFiles": [],
                                                                     "nameWithInsertation": "java",
                                                                     "currentPath": ".\\app\\src\\test\\java"
                                                                 }
@@ -302,30 +266,22 @@
                                                         [
                                                             {
                                                                 "templateFolder": {
-                                                                    "templateFolders": [
-
-                                                                    ],
-                                                                    "templateFiles": [
-
-                                                                    ],
+                                                                    "templateFolders": [],
+                                                                    "templateFiles": [],
                                                                     "nameWithInsertation": "resources",
                                                                     "currentPath": ".\\app\\src\\test\\resources"
                                                                 }
                                                             }
                                                         ]
                                                     ],
-                                                    "templateFiles": [
-
-                                                    ],
+                                                    "templateFiles": [],
                                                     "nameWithInsertation": "test",
                                                     "currentPath": ".\\app\\src\\test"
                                                 }
                                             }
                                         ]
                                     ],
-                                    "templateFiles": [
-
-                                    ],
+                                    "templateFiles": [],
                                     "nameWithInsertation": "src",
                                     "currentPath": ".\\app\\src"
                                 }
@@ -351,6 +307,8 @@
                                         "    // Use Maven Central for resolving dependencies.",
                                         "    mavenCentral()",
                                         "}",
+                                        "",
+                                        "var version = [0, 0, 0]",
                                         "",
                                         "dependencies {",
                                         "    // Use JUnit Jupiter for testing.",
@@ -391,6 +349,7 @@
                                         "    }",
                                         "",
                                         "\tduplicatesStrategy = DuplicatesStrategy.EXCLUDE",
+                                        "\tarchiveBaseName = '[-type=ALL;description=project title;default=App-](v' + version[0] + '_' + version[1] + '_' + version[2] + ')'",
                                         "}",
                                         "",
                                         "application {",
@@ -428,13 +387,13 @@
                                         "",
                                         "spotless {",
                                         "  java {",
-										"    removeUnusedImports()",
-										"    importOrder()",
-										"    palantirJavaFormat()",
-										"    indentWithSpaces(4)",
-										"    formatAnnotations()",   
-										"    trimTrailingWhitespace()",
-										"    endWithNewline()",
+                                        "    removeUnusedImports()",
+                                        "    importOrder()",
+                                        "    palantirJavaFormat()",
+                                        "    indentWithSpaces(4)",
+                                        "    formatAnnotations()",
+                                        "    trimTrailingWhitespace()",
+                                        "    endWithNewline()",
                                         "  }",
                                         "}",
                                         "",
@@ -482,16 +441,12 @@
         [
             {
                 "templateFolder": {
-                    "templateFolders": [
-
-                    ],
+                    "templateFolders": [],
                     "templateFiles": [
                         [
                             {
                                 "templateFile": {
-                                    "content": [
-
-                                    ],
+                                    "content": [],
                                     "nameWithInsertation": "favicon.ico",
                                     "currentPath": ".\\assets\\favicon.ico"
                                 }
@@ -510,9 +465,7 @@
                         [
                             {
                                 "templateFolder": {
-                                    "templateFolders": [
-
-                                    ],
+                                    "templateFolders": [],
                                     "templateFiles": [
                                         [
                                             {
@@ -720,9 +673,7 @@
                             }
                         ]
                     ],
-                    "templateFiles": [
-
-                    ],
+                    "templateFiles": [],
                     "nameWithInsertation": "config",
                     "currentPath": ".\\config"
                 }
@@ -735,16 +686,12 @@
                         [
                             {
                                 "templateFolder": {
-                                    "templateFolders": [
-
-                                    ],
+                                    "templateFolders": [],
                                     "templateFiles": [
                                         [
                                             {
                                                 "templateFile": {
-                                                    "content": [
-
-                                                    ],
+                                                    "content": [],
                                                     "nameWithInsertation": "gradle-wrapper.jar",
                                                     "currentPath": ".\\gradle\\wrapper\\gradle-wrapper.jar"
                                                 }

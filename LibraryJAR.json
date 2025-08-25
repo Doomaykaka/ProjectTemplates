@@ -18,9 +18,7 @@
                         [
                             {
                                 "templateFolder": {
-                                    "templateFolders": [
-                                        
-                                    ],
+                                    "templateFolders": [],
                                     "templateFiles": [
                                         [
                                             {
@@ -228,9 +226,7 @@
                             }
                         ]
                     ],
-                    "templateFiles": [
-                        
-                    ],
+                    "templateFiles": [],
                     "nameWithInsertation": "config",
                     "currentPath": ".\\config"
                 }
@@ -243,16 +239,12 @@
                         [
                             {
                                 "templateFolder": {
-                                    "templateFolders": [
-                                        
-                                    ],
+                                    "templateFolders": [],
                                     "templateFiles": [
                                         [
                                             {
                                                 "templateFile": {
-                                                    "content": [
-                                                        
-                                                    ],
+                                                    "content": [],
                                                     "nameWithInsertation": "gradle-wrapper.jar",
                                                     "currentPath": ".\\gradle\\wrapper\\gradle-wrapper.jar"
                                                 }
@@ -328,9 +320,7 @@
                                                                         [
                                                                             {
                                                                                 "templateFolder": {
-                                                                                    "templateFolders": [
-                                                                                        
-                                                                                    ],
+                                                                                    "templateFolders": [],
                                                                                     "templateFiles": [
                                                                                         [
                                                                                             {
@@ -358,9 +348,7 @@
                                                                             }
                                                                         ]
                                                                     ],
-                                                                    "templateFiles": [
-                                                                        
-                                                                    ],
+                                                                    "templateFiles": [],
                                                                     "nameWithInsertation": "java",
                                                                     "currentPath": ".\\lib\\src\\main\\java"
                                                                 }
@@ -369,21 +357,15 @@
                                                         [
                                                             {
                                                                 "templateFolder": {
-                                                                    "templateFolders": [
-                                                                        
-                                                                    ],
-                                                                    "templateFiles": [
-                                                                        
-                                                                    ],
+                                                                    "templateFolders": [],
+                                                                    "templateFiles": [],
                                                                     "nameWithInsertation": "resources",
                                                                     "currentPath": ".\\lib\\src\\main\\resources"
                                                                 }
                                                             }
                                                         ]
                                                     ],
-                                                    "templateFiles": [
-                                                        
-                                                    ],
+                                                    "templateFiles": [],
                                                     "nameWithInsertation": "main",
                                                     "currentPath": ".\\lib\\src\\main"
                                                 }
@@ -400,9 +382,7 @@
                                                                         [
                                                                             {
                                                                                 "templateFolder": {
-                                                                                    "templateFolders": [
-                                                                                        
-                                                                                    ],
+                                                                                    "templateFolders": [],
                                                                                     "templateFiles": [
                                                                                         [
                                                                                             {
@@ -451,9 +431,7 @@
                                                                             }
                                                                         ]
                                                                     ],
-                                                                    "templateFiles": [
-                                                                        
-                                                                    ],
+                                                                    "templateFiles": [],
                                                                     "nameWithInsertation": "java",
                                                                     "currentPath": ".\\lib\\src\\test\\java"
                                                                 }
@@ -462,30 +440,22 @@
                                                         [
                                                             {
                                                                 "templateFolder": {
-                                                                    "templateFolders": [
-                                                                        
-                                                                    ],
-                                                                    "templateFiles": [
-                                                                        
-                                                                    ],
+                                                                    "templateFolders": [],
+                                                                    "templateFiles": [],
                                                                     "nameWithInsertation": "resources",
                                                                     "currentPath": ".\\lib\\src\\test\\resources"
                                                                 }
                                                             }
                                                         ]
                                                     ],
-                                                    "templateFiles": [
-                                                        
-                                                    ],
+                                                    "templateFiles": [],
                                                     "nameWithInsertation": "test",
                                                     "currentPath": ".\\lib\\src\\test"
                                                 }
                                             }
                                         ]
                                     ],
-                                    "templateFiles": [
-                                        
-                                    ],
+                                    "templateFiles": [],
                                     "nameWithInsertation": "src",
                                     "currentPath": ".\\lib\\src"
                                 }
@@ -535,8 +505,6 @@
                                         "    withSourcesJar()",
                                         "}",
                                         "",
-                                        "archivesBaseName = '[-type=.*;description=project title;default=App-](v' + version[0] + '_' + version[1] + '_' + version[2] + ')'",
-                                        "",
                                         "jar{",
                                         "\t// Include dependencies in jar",
                                         "\tfrom {",
@@ -546,6 +514,7 @@
                                         "    }",
                                         "",
                                         "\tduplicatesStrategy = DuplicatesStrategy.EXCLUDE",
+                                        "\tarchiveBaseName = '[-type=ALL;description=project title;default=App-](v' + version[0] + '_' + version[1] + '_' + version[2] + ')'",
                                         "}",
                                         "",
                                         "tasks.named('test') {",
